@@ -1,0 +1,7 @@
+This folder contains the folder for the client codes, to send temperature via Arduino sensor to the Server. 
+
+############################ MQTT ############################
+
+
+
+############################ ZeroMQ ############################
