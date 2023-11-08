@@ -1,0 +1,7 @@
+This folder contains the respective server codes for the two selected transmission protocols. 
+
+############################ MQTT ############################
+
+
+
+############################ ZeroMQ ############################
