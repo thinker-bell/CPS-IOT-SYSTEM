@@ -1,0 +1,5 @@
+The follwing two Python Scripts scale the data down to X sample size. They are implemented accross various traffic CSV types for both MQTT and ZeroMQ and are highly adaptable. 
+
+################################ MQTT ################################
+
+################################ ZeroMQ ################################
