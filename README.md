@@ -29,7 +29,7 @@ Once the server and client is up and running the temperature will be displayed v
 ## Wirehsark
 Wireshark technology was utilzed to observe the Traffic data specifically on the Server, to enable the data generation for both normal and malicious data. 
 
-The Data was exproted via wireshark as CSV files. From here "" was utilized to scale the data appropriately for Machine Learning implementation. 
+The Data was exproted via wireshark as CSV files. From here "mqttCombine.py" and "zeromqCombine.py" was utilized to scale the data appropriately for Machine Learning implementation. 
 
 ## DDos Attacks
 Utilizing a series of tools, the Server was attacked and malicious network traffic gathered to build a classification machine learning model regarding the network traffic. 
